@@ -1,0 +1,20 @@
+index
+descripcion de la banda
+Elementos de la musica
+
+Gallery
+6 png y 3 videos yt
+
+Reserva
+entrada y ubicacion
+
+Contacto
+redes y ayuda/reportes
+
+Live
+1 video en vivo (subido)
+
+colores
+negro (fondo)
+blanco (letras)
+azul oscuro (sombreado o para el nav)
